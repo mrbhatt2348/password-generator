@@ -29,9 +29,9 @@ Check out the live demo [here](https://mrbhatt2348.github.io/password-generator/
 
 ## Screenshots
 
-![App Screenshot 1](https://i.ibb.co/LzygzKT/app-screenshot-1.png)
+![App Screenshot 3](https://i.ibb.co/mtmYfdQ/app-screenshot-3.png)
 
-![App Screenshot 2](https://i.ibb.co/Jc3Dkmx/app-screenshot-2.png)
+![App Screenshot 4](https://i.ibb.co/F38GYz9/app-screenshot-4.png)
 
 ## Contributing
 
